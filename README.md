@@ -1,2 +1,2 @@
 # Manga-Downloader
-Downloads the manga (specific chapter) into pdf format for single file viewing.
+Downloads manga (specific chapter) and converts into pdf format for single file viewing.
