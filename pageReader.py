@@ -17,7 +17,7 @@ def selector(mangaElem, term):
 		sys.exit(1)
 	else:
 		mangaUrl = mangaElem[0].get('href')
-		print("Processing 5% done")
+		print("5% completed.")
 		return(mangaUrl)
 
 def selected(mangaElem2, c):
