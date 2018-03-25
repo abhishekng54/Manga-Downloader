@@ -1,5 +1,5 @@
 # Manga-Downloader
-Downloads manga (specific chapter) and converts into pdf format for single file viewing.
+Downloads manga/ 4-koma/ web manga (specific chapter) and converts into pdf format for single file viewing.
 
 This script takes manga/ 4-koma/ web manga name as input argument. Enter chapter number after when prompted.
 
