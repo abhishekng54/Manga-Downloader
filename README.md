@@ -1,5 +1,5 @@
 # Manga-Downloader
-Downloads manga/ 4-koma/ web manga (specific chapter) and converts into pdf format for single file viewing and to avoid being proned by advertisements.
+Downloads manga/ 4-koma/ web manga (specific chapter) and converts into pdf format for single file viewing and to avoid being proned by advertisements or pop-ups.
 
 This script takes manga/ 4-koma/ web manga name as input argument. Enter chapter number after when prompted.
 
@@ -22,7 +22,7 @@ For example, for downloading the naruto manga chapter 456
 Then it will prompt for the chapter number.
 
 ## Reason For Making
-Many people find it annoying that online manga reading comes with cons like **advetisements** (on clicking for next page, they are redirected to an ad).
+Many people find it annoying that online manga reading comes with cons like **advetisements** and **pop-ups** (on clicking for next page, they are redirected to an ad).
 
 It is also prefered that the manga is read in a single file view rather than multiple pages, where you have to click for the next page which disprupts the flow of manga reading.
 
